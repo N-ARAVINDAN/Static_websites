@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.hp-hd {
+    color: #183b56;
+    font-family: Bree Serif;
+    font-size: 25px;
+    align-content: center;
+
+}
+
+.hp-p {
+    color: #616e7c;
+    font-family: Bree Serif;
+    font-size: 12px;
+    align-content: center;
+
+}
+
+.hp-img {
+    height: 27vh;
+    background-size: cover;
+    padding: 15px;
+    width: 50vw;
+}
+
+.hp-mar {
+    margin: 10px;
+    align-items: center;
+
+}
+
+.hp-h-img {
+    height: 50vh;
+    background-size: cover;
+    padding: 15px;
+    width: 90vw;
+}
+
+
+
+
+.at-img {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.at-heading {
+    color: #5752ab;
+    font-family: Bree Serif;
+    font-size: 22px;
+
+}
+
+.at-container {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 20px;
+    height: 70px;
+}
+
+.at-para {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.at-bt2 {
+    background-color: #5752ab;
+    color: #ffffff;
+    border-radius: 5px;
+    width: 100px;
+    height: 32px;
+    font-size: 12px;
+    margin: 8px;
+}
+
+.at-bt1 {
+    background-color: #ffffff;
+    color: #171f46;
+    border-radius: 5px;
+    width: 100px;
+    height: 32px;
+    font-size: 12px;
+    border-color: #d7dfe9;
+}
+
+
+
+
+
+.fo-img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.fo-card {
+    text-align: left;
+    background-color: #f6c56e;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.fo-heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.fo-paragraph {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.fo-button {
+    color: #323f4b;
+    background-color: #ffffff;
+    width: 110px;
+    height: 30px;
+    border-width: 0px;
+    border-radius: 5px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+
+
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+
+
+
+.img {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading {
+    color: #323f4b;
+    font-size: 16px;
+
+
+}
+
+.container {
+    background-color: #ffffff;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 20px;
+    height: 70px;
+    font-family: Roboto;
+}
+
+.para {
+    color: #7b8794;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.para1 {
+    color: #7b8794;
+    font-family: Roboto;
+    font-size: 10px;
+}
+
+.button {
+    background-color: #323f4b;
+    color: #ffffff;
+    width: 100px;
+    height: 32px;
+    border-radius: 8px;
+
+    font-size: 10px;
+    border-color: #d7dfe9;
+}
